@@ -1,3 +1,6 @@
+#hackerranck Statistics Day 1
+#Standard Deviation
+
 from math import sqrt
 N = input()
 X = map(float,raw_input().split())
